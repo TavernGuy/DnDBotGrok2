@@ -1,6 +1,6 @@
 from telegram import *
 
-updater = Updater(token="TOKEN")
+updater = Updater(token="8459271594:AAE5kbz8GKt-VHT_kuV_Kwg4_0hqTxP6oNE")
 dispatcher = updater.dispatcher
 
 def Help(bot, update):
